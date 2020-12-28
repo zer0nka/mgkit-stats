@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 782,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 772,
+    "timeDay": 772,
+    "timeWeek": 772,
+    "timeMonth": 772,
+    "timeYear": 772,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 430,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
+    "time": 436,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1108,
-    "timeDay": 1108,
-    "timeWeek": 1108,
-    "timeMonth": 1108,
-    "timeYear": 1108,
+    "time": 1086,
+    "timeDay": 1086,
+    "timeWeek": 1086,
+    "timeMonth": 1086,
+    "timeYear": 1086,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1097,
-    "timeDay": 1097,
-    "timeWeek": 1097,
-    "timeMonth": 1097,
-    "timeYear": 1097,
+    "time": 1083,
+    "timeDay": 1083,
+    "timeWeek": 1083,
+    "timeMonth": 1083,
+    "timeYear": 1083,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Broken Site",
+    "url": "https://thissitedoesnotexist.com",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
+    "slug": "broken-site",
+    "status": "down",
+    "uptime": "15.20%",
+    "uptimeDay": "15.20%",
+    "uptimeWeek": "15.20%",
+    "uptimeMonth": "15.20%",
+    "uptimeYear": "15.20%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-28": 0
+    }
+  },
+  {
+    "name": "Secret Site",
+    "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "secret-site",
+    "status": "down",
+    "uptime": "13.03%",
+    "uptimeDay": "13.03%",
+    "uptimeWeek": "13.03%",
+    "uptimeMonth": "13.03%",
+    "uptimeYear": "13.03%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-28": 0
+    }
   }
 ]
