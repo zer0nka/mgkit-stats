@@ -17,10 +17,10 @@ sites:
     url: https://pf02.mgkit.ru
     icon: https://www.pfsense.org/favicon.ico
     __dangerous__insecure: true
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+#  - name: Broken Site
+#    url: https://thissitedoesnotexist.com
+#  - name: Secret Site
+#    url: $SECRET_SITE
 
 
 status-website:
