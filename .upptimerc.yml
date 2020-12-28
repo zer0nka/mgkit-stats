@@ -10,8 +10,10 @@ sites:
     url: http://mail.mgkit.ru
   - name: pfSense Router [Active] 
     url: https://pf01.mgkit.ru
+    __dangerous__insecure: true
   - name: pfSense Router [Backup] 
     url: https://pf02.mgkit.ru
+    __dangerous__insecure: true
 
 
 status-website:
