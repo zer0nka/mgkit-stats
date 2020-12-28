@@ -8,11 +8,14 @@ sites:
     url: http://www.mgkit.ru
   - name: MGKIT MAIL
     url: http://mail.mgkit.ru
+    icon: https://mail.google.com/favicon.ico
   - name: pfSense Router [Active] 
     url: https://pf01.mgkit.ru
+    icon: https://redmine.pfsense.org/attachments/2070/favicon.ico
     __dangerous__insecure: true
   - name: pfSense Router [Backup] 
     url: https://pf02.mgkit.ru
+    icon: https://www.pfsense.org/favicon.ico
     __dangerous__insecure: true
 
 
