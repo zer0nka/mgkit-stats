@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/pf01.mgkit.ru",
     "slug": "pf-sense-router-active",
     "status": "down",
-    "uptime": "13.49%",
-    "uptimeDay": "13.49%",
-    "uptimeWeek": "13.49%",
-    "uptimeMonth": "13.49%",
-    "uptimeYear": "13.49%",
+    "uptime": "11.12%",
+    "uptimeDay": "11.12%",
+    "uptimeWeek": "11.12%",
+    "uptimeMonth": "11.12%",
+    "uptimeYear": "11.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 1
     }
   },
   {
