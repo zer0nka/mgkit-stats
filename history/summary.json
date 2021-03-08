@@ -40,7 +40,7 @@
     "url": "https://pf01.mgkit.ru",
     "icon": "https://www.pfsense.org/favicon.ico",
     "slug": "pf-sense-router-active",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
